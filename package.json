@@ -1,0 +1,23 @@
+{
+  "name": "paguina_web_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "public-ip": "^3.0.0",
+    "request": "^2.88.0",
+    "riot-api": "^0.1.0",
+    "riot-games-api-nodejs": "^1.0.7",
+    "riot-lol-api": "^4.2.18"
+  }
+}
